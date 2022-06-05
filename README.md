@@ -2,8 +2,6 @@
 
 ## 01 - Citas_LocalStorage
 
-[https://github.com/AlvaroCodes/Citas_LocalStorage_React](https://github.com/AlvaroCodes/Citas_LocalStorage_React)
-
 ### Introducción:
 
 🧠 Project creator, **Código Con Juan from Udemy**: [https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/)
